@@ -67,6 +67,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: lshf_mirror
+    second: {fileID: 2100000, guid: f68b2ce31b38f6d47b0fb4a0867f495d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: rim_colour
     second: {fileID: 2100000, guid: 41ccbe6460d15844da0e6b6b8cd32a51, type: 2}
   - first:
